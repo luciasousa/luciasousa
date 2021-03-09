@@ -1,6 +1,7 @@
 ### Hi I'm Lúcia ✨
 <h3 align="left">Connect with me:</h3>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/l%C3%BAcia-sousa-a44420172//)  
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/l%C3%BAcia-sousa-a44420172//)    
 
 <!--
 **luciasousa/luciasousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
