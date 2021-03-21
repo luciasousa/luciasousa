@@ -1,3 +1,4 @@
+![1_9UugY1YTsovl-O2YVaB4pw-removebg-preview](https://user-images.githubusercontent.com/45875556/111921490-c8920780-8a8c-11eb-8bac-1e536768f0d7.png)
 ### Hi I'm Lúcia ✨
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/lucia-mb-sousa////) 
