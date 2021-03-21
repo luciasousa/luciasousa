@@ -1,4 +1,5 @@
-![117-1172259_loading-cute-aesthetic-parallel-hd-png-download-removebg-preview](https://user-images.githubusercontent.com/45875556/111921605-50781180-8a8d-11eb-94b8-aaf054f0d60d.png)
+![117-1172259_loading-cute-aesthetic-parallel-hd-png-download-removebg-preview (1)](https://user-images.githubusercontent.com/45875556/111921624-730a2a80-8a8d-11eb-8804-b43daf79e7b7.png)
+
 ### Hi I'm Lúcia ✨
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/lucia-mb-sousa////) 
