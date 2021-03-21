@@ -1,7 +1,7 @@
+![website-loading-speed-poor-speed-1024x645](https://user-images.githubusercontent.com/45875556/111921249-84523780-8a8b-11eb-904c-3712d50eea10.jpg)
 ### Hi I'm Lúcia ✨
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/lucia-mb-sousa////) 
-![2532549-middle](https://user-images.githubusercontent.com/45875556/111921217-45bc7d00-8a8b-11eb-9594-30d82d6a66df.png)
 
 <!--
 **luciasousa/luciasousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
