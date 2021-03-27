@@ -1,6 +1,5 @@
 <h2> Hi, I'm Lúcia ✨<!--<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">--></h2>
 <!--<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">-->
-<img align='right' src="https://user-images.githubusercontent.com/45875556/112550138-d14d4b00-8db6-11eb-803c-6a365ce65ffb.gif" width="230">
 
 <p><em>MSc Student in Computer and Telematics Engineering at <a href="http://www.ua.pt">University of Aveiro</a> <!--<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">--><!--</br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> -->
 <p><em>Linkedin: </em></p></em></p>
