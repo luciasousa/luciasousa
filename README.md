@@ -1,4 +1,4 @@
-<h2> Hi, I'm Lúcia ✨</h2>
+<h2><em> Hi, I'm Lúcia </em>✨</h2>
 
 <p>MSc Student in Computer and Telematics Engineering at <a href="http://www.ua.pt">University of Aveiro</a></p>
 
